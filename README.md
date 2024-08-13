@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
 
-<h5 align="center">I’m currently an undergraduate at Rajarata University of Sri Lanka
+<h5 align="center">🔸I’m currently an undergraduate at Rajarata University of Sri Lanka
 </h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
