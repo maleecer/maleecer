@@ -42,6 +42,6 @@
   
 </style>
 img{
-  margin-left="2px" 
+  margin-left: 2px
 }
 
