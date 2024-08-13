@@ -1,6 +1,3 @@
-Your profile looks great! If you want to add spacing between the icons, you can use CSS to control the margin or padding. Here's an updated version of your code with added spacing between the icons:
-
-```html
 <h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
 
 <h5 align="center">🔸I’m currently an undergraduate at Rajarata University of Sri Lanka</h5><br>
@@ -62,6 +59,4 @@ Your profile looks great! If you want to add spacing between the icons, you can 
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/>
   </a>
 </p>
-```
 
-The `style="margin-right: 10px;"` attribute adds a 10px space to the right of each icon, creating a cleaner layout. Adjust the margin as needed to fit your design preferences.
