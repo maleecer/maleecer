@@ -1,4 +1,4 @@
-[<h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
+<h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
 
 <h5 align="center">I’m currently an undergraduate at Rajarata University of Sri Lanka
 </h5><br>
@@ -32,4 +32,9 @@
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/></p>
 
 <br><hr><br>
-](https://github.com/maleecer)
+
+<img align="left" src="https://komarev.com/ghpvc/?username=maleecer&label=Profile%20views&color=0e75b6&style=flat" />
+
+<h2 align="left">Connect with Me</h2>
+
+<p align='left'><a href="https://github.com/maleecer"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a></p>
