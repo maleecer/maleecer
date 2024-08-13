@@ -38,3 +38,10 @@
 <h2 align="left">Connect with Me</h2>
 
 <p align='left'><a href="https://github.com/maleecer"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a></p>
+<style>
+  
+</style>
+img{
+  margin-left="2px" 
+}
+
