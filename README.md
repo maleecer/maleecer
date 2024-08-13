@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
+[<h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
 
 <h5 align="center">I’m currently an undergraduate at Rajarata University of Sri Lanka
 </h5><br>
@@ -32,3 +32,4 @@
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/></p>
 
 <br><hr><br>
+](https://github.com/maleecer)
