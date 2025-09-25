@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Dushmin Maleesha</h1>
+<h1 align="center">Hello World! <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width='40' height='40' title='' style="margin-right: 100px;"/> I'm Dushmin Maleesha</h1>
 
 <h5 align="center">🔸I’m currently an undergraduate at Rajarata University of Sri Lanka</h5><br>
 
